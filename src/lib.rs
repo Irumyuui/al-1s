@@ -1,4 +1,5 @@
 #![feature(allocator_api)]
+#![feature(portable_simd)]
 
 pub mod utils;
 
